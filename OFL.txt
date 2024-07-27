@@ -1,3 +1,9 @@
+In Arad font, Kenit font is used for some glyphs. These glyphs include English letters and numbers, and most symbols.
+
+Kanit Font:
+Copyright 2020 The Kanit Project Authors (https://github.com/cadsondemak/kanit)
+
+Arad Font:
 Copyright 2024 The Arad Project Authors (https://github.com/MDarvishi5124/Arad)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
