@@ -4,6 +4,21 @@ Arad is an open source font, which is the continuation of the Shabnam font proje
 
 آراد یک فونت آزاد هندسی، که ادامۀ پروژۀ فونت شبنم است. آراد در 8 وزن و چهار استایل نقطه طراحی شده و از زبان های فارسی، عربی، کوردی، تورکجه، اردو و مازِرونی پشتیبانی می‌کند. برای همنشین انگلیسی از فونت Kanit استفاده شده و چند تغییر کوچک بر روی ساختار آن شکل گرفته است.
 
+
+### نصب از AUR
+
+فونت آراد در [AUR](https://aur.archlinux.org/packages/arad-fonts) برای دانلود و نصب بر روی توزیع‌های برپایه آرچ در دسترس است.
+
+```bash
+paru/yay -S arad-fonts #Using Aur Helper
+
+git clone https://aur.archlinux.org/arad-fonts
+cd arad-fonts
+makepkg -sic #manual
+
+```
+
+
 <li><a href="https://mdarvishi5124.github.io/Arad/fa">صفحۀ اصلی پروژه</a> - <a href="https://mdarvishi5124.github.io/Arad">Website</a></li>
 <li><a href="https://mdarvishi5124.github.io/Arad/fa/docs">راهنما</a> - <a href="https://mdarvishi5124.github.io/Arad/docs">Docs</a></li>
 <li><a href="https://mdarvishi5124.github.io/Arad/fa/lab">آزمایشگاه</a> - <a href="https://mdarvishi5124.github.io/Arad/lab">Lab</a></li>
